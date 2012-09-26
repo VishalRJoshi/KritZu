@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KritZu", "PlaylistGenerator\KritZu.csproj", "{219613E8-4D80-4187-A510-1A535ED4473D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219613E8-4D80-4187-A510-1A535ED4473D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219613E8-4D80-4187-A510-1A535ED4473D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219613E8-4D80-4187-A510-1A535ED4473D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219613E8-4D80-4187-A510-1A535ED4473D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
